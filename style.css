@@ -1,7 +1,7 @@
 body{
   margin: 5em 3em 1em 3em;
   background: url(http://img4.hostingpics.net/pics/330931aboveadventureaerialair1.jpg) no-repeat center center fixed;
-  color: #E6E6FA;
+  color: #FFFFFF;
   font-family: Garamond, serif;
 }
 
@@ -112,7 +112,3 @@ footer a{
 
 
 /*CONTACT HTML*/
-
-body {
-  color:#FFFFFF;
-}
